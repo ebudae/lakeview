@@ -1,1 +1,0 @@
-C:\Users\alas\source\repos\lakeview\lakeview\Builds\VisualStudio2022\x64\Debug\Standalone Plugin\lakeview.exe
