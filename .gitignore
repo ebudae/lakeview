@@ -1,1 +1,11 @@
-# Lakeview
+# JUCE/Build artefacts
+lakeview/Builds/
+DerivedData/
+*.obj *.pdb *.ilk *.exp *.lib *.a *.so *.dylib
+*.exe *.app *.vst3 *.dll
+# IDE
+.vs/ .idea/ .vscode/
+# Audio / media
+*.wav *.aiff *.flac *.mp3
+# Misc
+*.zip *.7z *.rar *.iso
